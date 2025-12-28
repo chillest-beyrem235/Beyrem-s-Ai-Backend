@@ -23,7 +23,7 @@ except:
     DDGS = None
 
 # Configuration
-OLLAMA_API_URL = "http://localhost:11434/api/chat"
+OLLAMA_API_URL = "http://196.235.47.136:11434/api/chat"
 EMBEDDED_KEY_DATA = {'created_by': 'Beyrem', 'created_at': '2025-12-07T10:00:00', 'expires_at': 'never', 'used': False, 'device_id': None}
 
 # Global variables
